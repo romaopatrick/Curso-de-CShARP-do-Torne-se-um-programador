@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Curso-de-CShARP-do-Torne-se-um-programador/1.0.0": {
+        "runtime": {
+          "Curso-de-CShARP-do-Torne-se-um-programador.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Curso-de-CShARP-do-Torne-se-um-programador/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
