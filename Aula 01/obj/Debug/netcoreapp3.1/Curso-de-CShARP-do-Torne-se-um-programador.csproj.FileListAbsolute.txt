@@ -1,13 +1,13 @@
+D:\Repositorios\Curso-de-CShARP-do-Torne-se-um-programador\Aula 01\obj\Debug\netcoreapp3.1\Curso-de-CShARP-do-Torne-se-um-programador.csprojAssemblyReference.cache
+D:\Repositorios\Curso-de-CShARP-do-Torne-se-um-programador\Aula 01\obj\Debug\netcoreapp3.1\Curso-de-CShARP-do-Torne-se-um-programador.AssemblyInfoInputs.cache
+D:\Repositorios\Curso-de-CShARP-do-Torne-se-um-programador\Aula 01\obj\Debug\netcoreapp3.1\Curso-de-CShARP-do-Torne-se-um-programador.AssemblyInfo.cs
+D:\Repositorios\Curso-de-CShARP-do-Torne-se-um-programador\Aula 01\obj\Debug\netcoreapp3.1\Curso-de-CShARP-do-Torne-se-um-programador.csproj.CoreCompileInputs.cache
 D:\Repositorios\Curso-de-CShARP-do-Torne-se-um-programador\Aula 01\bin\Debug\netcoreapp3.1\Curso-de-CShARP-do-Torne-se-um-programador.exe
 D:\Repositorios\Curso-de-CShARP-do-Torne-se-um-programador\Aula 01\bin\Debug\netcoreapp3.1\Curso-de-CShARP-do-Torne-se-um-programador.deps.json
 D:\Repositorios\Curso-de-CShARP-do-Torne-se-um-programador\Aula 01\bin\Debug\netcoreapp3.1\Curso-de-CShARP-do-Torne-se-um-programador.runtimeconfig.json
 D:\Repositorios\Curso-de-CShARP-do-Torne-se-um-programador\Aula 01\bin\Debug\netcoreapp3.1\Curso-de-CShARP-do-Torne-se-um-programador.runtimeconfig.dev.json
 D:\Repositorios\Curso-de-CShARP-do-Torne-se-um-programador\Aula 01\bin\Debug\netcoreapp3.1\Curso-de-CShARP-do-Torne-se-um-programador.dll
 D:\Repositorios\Curso-de-CShARP-do-Torne-se-um-programador\Aula 01\bin\Debug\netcoreapp3.1\Curso-de-CShARP-do-Torne-se-um-programador.pdb
-D:\Repositorios\Curso-de-CShARP-do-Torne-se-um-programador\Aula 01\obj\Debug\netcoreapp3.1\Curso-de-CShARP-do-Torne-se-um-programador.csprojAssemblyReference.cache
-D:\Repositorios\Curso-de-CShARP-do-Torne-se-um-programador\Aula 01\obj\Debug\netcoreapp3.1\Curso-de-CShARP-do-Torne-se-um-programador.AssemblyInfoInputs.cache
-D:\Repositorios\Curso-de-CShARP-do-Torne-se-um-programador\Aula 01\obj\Debug\netcoreapp3.1\Curso-de-CShARP-do-Torne-se-um-programador.AssemblyInfo.cs
-D:\Repositorios\Curso-de-CShARP-do-Torne-se-um-programador\Aula 01\obj\Debug\netcoreapp3.1\Curso-de-CShARP-do-Torne-se-um-programador.csproj.CoreCompileInputs.cache
 D:\Repositorios\Curso-de-CShARP-do-Torne-se-um-programador\Aula 01\obj\Debug\netcoreapp3.1\Curso-de-CShARP-do-Torne-se-um-programador.dll
 D:\Repositorios\Curso-de-CShARP-do-Torne-se-um-programador\Aula 01\obj\Debug\netcoreapp3.1\Curso-de-CShARP-do-Torne-se-um-programador.pdb
 D:\Repositorios\Curso-de-CShARP-do-Torne-se-um-programador\Aula 01\obj\Debug\netcoreapp3.1\Curso-de-CShARP-do-Torne-se-um-programador.genruntimeconfig.cache
