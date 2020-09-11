@@ -7,7 +7,16 @@ namespace Curso_de_CShARP_do_Torne_se_um_programador
     {
         static void Main(string[] args)
         {   
-            Funcoes.Menu();
+            try
+            {
+                Funcoes.Menu();
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine("ERRO!!   " + e);
+                Console.ReadKey();
+                Funcoes.Menu();
+            }
         }
     }
 }
